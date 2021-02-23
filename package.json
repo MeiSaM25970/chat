@@ -1,0 +1,29 @@
+{
+  "name": "socket.io-chat-mysql",
+  "version": "1.0.0",
+  "description": "a socketio chat mysql application",
+  "main": "chat.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikDrosakis/socket.io-chat-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikDrosakis/socket.io-chat-mysql/issues"
+  },
+  "homepage": "https://github.com/NikDrosakis/socket.io-chat-mysql#readme",
+  "dependencies": {
+    "experss": "0.0.1-security",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "socket.io": "^3.1.1",
+    "soket.io": "0.0.1-security"
+  }
+}
